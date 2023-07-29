@@ -1,8 +1,8 @@
 # Projeto_conversor-de-unidade
 <h2>Criado com html,css e JavaScript</h2>
 <p>Esse foi um sistema criado para fazer a conversão de algumas medidas
-  como Quilômetro , Metro, Centimetro e Milimeto
-  Suas funcionalidades são faceis de ser utilizada e bem eficaz
+  como Quilômetro , Metro, Centimetro e Milimeto.
+  Suas funcionalidades são faceis de serem utilizadas e uteis no dia a dia!
 </p>
 
 <h1>Suas funções em javaScript</h1>
